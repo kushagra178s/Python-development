@@ -1,7 +1,7 @@
-def mtable(n):
-    i=1
-    while(i<11):
-        print(f"{n} X {i} = {n*i}")
-        i=i+1
-
-mtable(7428)
+l = ['ksx', 'champion', 'yoyo', 'koder']
+i=0
+# while i<len(l):
+#     print(l[i])
+#     i = i+1
+for t in l:
+    print(t)
